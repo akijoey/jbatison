@@ -13,7 +13,7 @@ Add the following dependency to your `pom.xml`:
 <dependency>
   <groupId>com.akijoey</groupId>
   <artifactId>jbatison</artifactId>
-  <version>0.0.1</version>
+  <version>0.0.3</version>
 </dependency>
 ```
 
