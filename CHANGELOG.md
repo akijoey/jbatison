@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/AkiJoey/jbatison/compare/v1.0.0...v1.0.1) (2022-01-17)
+
+
+### Bug Fixes
+
+* oss parent ([88fac31](https://github.com/AkiJoey/jbatison/commit/88fac312b83befbf900f94751e46f4eee37b758f))
+
 # 1.0.0 (2022-01-17)
 
 
