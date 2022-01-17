@@ -1,6 +1,6 @@
 {
   "name": "jbatison",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "SQL mapper framework for Java configure with json.",
   "private": true,
   "scripts": {

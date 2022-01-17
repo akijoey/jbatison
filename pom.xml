@@ -5,7 +5,7 @@
   <!-- The Basics -->
   <groupId>com.akijoey</groupId>
   <artifactId>jbatison</artifactId>
-  <version>0.0.3</version>
+  <version>1.0.0</version>
   <packaging>jar</packaging>
   <dependencies>
     <dependency>
