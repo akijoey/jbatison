@@ -1,0 +1,14 @@
+{
+  "name": "jbatison",
+  "version": "0.0.3",
+  "description": "SQL mapper framework for Java configure with json.",
+  "private": true,
+  "scripts": {
+    "format": "devkit format",
+    "prepare": "devkit prepare",
+    "release": "devkit release"
+  },
+  "devDependencies": {
+    "@akijoey/devkit": "latest"
+  }
+}
